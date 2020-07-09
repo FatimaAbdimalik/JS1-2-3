@@ -1,0 +1,39 @@
+/* Warning: bad CSS practices here! */
+body {
+  margin: 0px auto;
+  width: 80%;
+  max-width: 800px;
+  font-family: "Raleway", sans-serif;
+}
+
+#quoteText {
+  font-size: 300%;
+}
+
+#quoteAuthor {
+  text-align: right;
+  margin-right: 50px;
+  margin-top: 20px;
+}
+
+#container {
+  height: 100vh;
+}
+
+blockquote {
+  border-radius: 8px;
+  border: 10px solid #222;
+  box-shadow: 10px 10px 10px 10px #53777a60;
+  margin: 40px 0;
+  padding: 30px;
+}
+
+button {
+  background: none;
+  border-radius: 8px;
+  border: 2px solid gray;
+  cursor: pointer;
+  font-size: larger;
+  margin-top: 40px;
+  padding: 10px;
+}

@@ -1,0 +1,19 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 2em;
+}
+h1 {
+  font-size: 300%;
+}
+#container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#mainImage {
+  border-radius: 5px;
+  box-shadow: 10px 10px 10px #888;
+  margin: 50px 0;
+}
